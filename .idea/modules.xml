@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../img-jq-/.idea/img-jq-.iml" filepath="$PROJECT_DIR$/../img-jq-/.idea/img-jq-.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../jq-img/.idea/jq-img.iml" filepath="$PROJECT_DIR$/../jq-img/.idea/jq-img.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../jq-slick/.idea/jq-slick.iml" filepath="$PROJECT_DIR$/../jq-slick/.idea/jq-slick.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pet-paradigm.iml" filepath="$PROJECT_DIR$/.idea/pet-paradigm.iml" />
+    </modules>
+  </component>
+</project>
