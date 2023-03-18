@@ -21,7 +21,11 @@ body {
     border: 2px solid black;
     border-radius: unset;
 }
-
+.nav-item active pr-4 a{
+    color: pink;
+    text-align: right;
+    shape-outside: none;
+}
 .consultation-btn {
     border-radius: 0;
     background-color: #21548b;
